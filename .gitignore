@@ -1,0 +1,4 @@
+build/ 
+*.class
+.metadata/
+.DS_Store
