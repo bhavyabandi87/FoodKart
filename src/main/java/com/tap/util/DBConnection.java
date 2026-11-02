@@ -8,8 +8,8 @@ import java.sql.SQLException;
 public class DBConnection {
 
     private static final String URL = "jdbc:mysql://localhost:3306/foodkart";
-    private static final String USERNAME = "***REMOVED***";
-    private static final String PASSWORD = "***REMOVED***";
+    private static final String USERNAME = "YourUsername";
+    private static final String PASSWORD = "YourPassword";
 
     public static Connection getConnection() {
 
